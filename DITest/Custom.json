@@ -1,0 +1,10 @@
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Warning"
+        }
+    },
+    "AllowedHosts": "*",
+
+    "ServerURL": "https://localhost:44347/api/employee"
+}
